@@ -1,8 +1,7 @@
-Object,Local path
-BLCMM,/BLCMM/
-BLCMMB,/BLCMM/
-BLCMM_Data_BL2,/BLCMM/
-BLCMM_Data_TPS,/BLCMM/
-UCP_BL2,
-UCP_TPS,test
-test2,test3
+Object,localPath,updateDefault,fileName,version
+BLCMM,/BLCMM/,True,BLCMM.jar,1.0
+BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1
+BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,1.0
+BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,1.0
+UCP_BL2, ,False,patch.txt,4.?
+UCP_TPS, ,False,patchTPS.txt,2.?
