@@ -1,7 +1,9 @@
-Object,localPath,updateDefault,fileName,version
-BLCMM,/BLCMM/,True,BLCMM.jar,1.0
-BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1
-BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,1.0
-BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,1.0
-UCP_BL2, ,False,patch.txt,4.?
-UCP_TPS, ,False,patchTPS.txt,2.?
+Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName
+BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,changelog.txt,BLCM Mod Manager
+BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,changelog.txt,BLCM Mod Manager Beta
+BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,1.0,,True,,Object data for BL2
+BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,1.0,,True,,Object data for TPS
+UCP_BL2, ,False,patch.txt,4.?,,True,changelog.txt,The UCP for BL2
+UCP_TPS, ,False,patchTPS.txt,2.?,,True,changelog.txt,The UCP for TPS
+Generic plugin,/BLCMM//plugins/,False,plugin.jar,0,plugins/,False,,?
+Generic library,/BLCMM/lib/,False,lib.jar,0,lib/,False,,?
