@@ -1,9 +1,10 @@
 Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName
-BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,changelog.txt,BLCM Mod Manager
-BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,changelog.txt,BLCM Mod Manager Beta
+BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,changelog.txt,BLC Mod Manager
+BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,changelog.txt,BLC Mod Manager Beta
 BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,1.0,,True,,Object data for BL2
 BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,1.0,,True,,Object data for TPS
-UCP_BL2, ,False,patch.txt,4.?,,True,changelog.txt,The UCP for BL2
-UCP_TPS, ,False,patchTPS.txt,2.?,,True,changelog.txt,The UCP for TPS
+UCP_BL2, ,False,patch.txt,4.?,,False,changelog.txt,The UCP for BL2
+UCP_TPS, ,False,patchTPS.txt,2.?,,False,changelog.txt,The UCP for TPS
 Generic plugin,/BLCMM//plugins/,False,plugin.jar,0,plugins/,False,,?
 Generic library,/BLCMM/lib/,False,lib.jar,0,lib/,False,,?
+C0dyHex1,,False,file.hex,,hexs/,True,,C0dy's new hex
