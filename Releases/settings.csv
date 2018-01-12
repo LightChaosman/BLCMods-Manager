@@ -8,3 +8,4 @@ UCP_TPS, ,False,patchTPS.txt,2.?,,False,changelog.txt,The UCP for TPS
 Generic plugin,/BLCMM//plugins/,False,plugin.jar,0,plugins/,False,,?
 Generic library,/BLCMM/lib/,False,lib.jar,0,lib/,False,,?
 C0dyHex1,,False,file.hex,,hexs/,True,,C0dy's new hex
+C0dyHex2,,False,file.hex,,hexs/,True,,C0dy's cool hex
