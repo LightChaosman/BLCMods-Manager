@@ -1,12 +1,11 @@
-Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName
-BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,changelog.txt,BLC Mod Manager
-BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,changelog.txt,BLC Mod Manager Beta
-BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,1.0,,True,,Object data for BL2
-BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,1.0,,True,,Object data for TPS
-UCP_BL2, ,False,patch.txt,4.?,,False,changelog.txt,The UCP for BL2
-UCP_TPS, ,False,patchTPS.txt,2.?,,False,changelog.txt,The UCP for TPS
-Generic plugin,/BLCMM//plugins/,False,plugin.jar,0,plugins/,False,,?
-Generic library,/BLCMM/lib/,False,lib.jar,0,lib/,False,,?
-C0dyHex1,/BLCMM/hexes/,False,file.hex,,hexes/,True,,C0dy's new hex
-C0dyHex2,/BLCMM/hexes/,False,file.hex,,hexes/,True,,C0dy's cool hex
-Multitool,/BLCMM/,,multitool.exe,,,True,,The Hex multitool by c0dy
+Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName,dependencies
+BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,changelog.txt,BLC Mod Manager,
+BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,changelog.txt,BLC Mod Manager Beta,
+BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,0.9,,True,,Object data for BL2,DataInteractor
+BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,0.9,,True,,Object data for TPS,DataInteractor
+UCP_BL2, ,False,patch.txt,4.?,,False,changelog.txt,The UCP for BL2,
+UCP_TPS, ,False,patchTPS.txt,2.?,,False,changelog.txt,The UCP for TPS,
+ProbCalculator,/BLCMM/plugins/,False,probCalc.jar,0,plugins/,False,,Probability calculator,DataInteractor;BLCMM_Data_BL2;BLCMM_Data_TPS
+DataInteractor,/BLCMM/lib/,False,BLCMM_Data.jar,0,lib/,True,,Data Library,
+C0dyHex1,/BLCMM/hexs/,False,file.hex,0,hexes/,True,,C0dy's new hex,Multitool
+Multitool,/BLCMM/,False,multitool.exe,0,,True,,The Hex multitool by c0dy,
