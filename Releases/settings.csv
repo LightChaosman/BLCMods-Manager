@@ -7,5 +7,6 @@ UCP_BL2, ,False,patch.txt,4.?,,False,changelog.txt,The UCP for BL2
 UCP_TPS, ,False,patchTPS.txt,2.?,,False,changelog.txt,The UCP for TPS
 Generic plugin,/BLCMM//plugins/,False,plugin.jar,0,plugins/,False,,?
 Generic library,/BLCMM/lib/,False,lib.jar,0,lib/,False,,?
-C0dyHex1,,False,file.hex,,hexs/,True,,C0dy's new hex
-C0dyHex2,,False,file.hex,,hexs/,True,,C0dy's cool hex
+C0dyHex1,/BLCMM/hexes/,False,file.hex,,hexes/,True,,C0dy's new hex
+C0dyHex2,/BLCMM/hexes/,False,file.hex,,hexes/,True,,C0dy's cool hex
+Multitool,/BLCMM/,,multitool.exe,,,True,,The Hex multitool by c0dy
