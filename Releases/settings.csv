@@ -1,5 +1,5 @@
 Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName,dependencies
-BLCMM,/BLCMM/,True,BLCMM.jar,1.0,,True,,BLC Mod Manager,
+BLCMM,/BLCMM/,True,BLCMM.jar,1.01,,True,,BLC Mod Manager,
 BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,,BLC Mod Manager Beta,
 BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,0.9,Data/BL2/,True,,Object data for BL2,DataInteractor
 BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,0.9,Data/TPS/,True,,Object data for TPS,DataInteractor
