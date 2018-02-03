@@ -1,0 +1,9 @@
+Game=BL2
+ValueName=UVHM Level Modifier
+MinValue=1
+MaxValue=50
+Offset=4
+ValueRange=1
+PatchSignature=43 00 83 FE
+UiElement=2
+DONE!
