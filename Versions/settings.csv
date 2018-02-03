@@ -1,10 +1,7 @@
 Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName,dependencies
-BLCMM,/BLCMM/,True,BLCMM.jar,1.01,,True,,BLC Mod Manager,
+BLCMM,/BLCMM/,True,BLCMM.jar,1.02,,True,,BLC Mod Manager,
 BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,,BLC Mod Manager Beta,
-BLCMM_Data_BL2,/BLCMM/,False,BLCMM_Data_BL2.jar,0.911ForMike,Data/BL2/,True,,Object data for BL2,DataInteractor
-BLCMM_Data_TPS,/BLCMM/,False,BLCMM_Data_TPS.jar,0.9,Data/TPS/,True,,Object data for TPS,DataInteractor
-UCP_BL2, ,False,patch.txt,4.?,Patches/,False,,The UCP for BL2,
-UCP_TPS, ,False,patchTPS.txt,2.?,Patches/,False,,The UCP for TPS,
-ProbCalculator,/BLCMM/plugins/,False,probCalc.jar,0,Plugins/,False,,Probability calculator,DataInteractor;BLCMM_Data_BL2;BLCMM_Data_TPS
-DataInteractor,/BLCMM/lib/,False,BLCMM_Data.jar,0,Libraries/,True,,Data Library,
-Multitool,/BLCMM/multitool/,False,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;CustomPatches/UVHM Level Modifier Patch.txt;CustomPatches/CheckBox UVHM Level Modifier Patch.txt,1.13,MultiTool/,True,,The Hex multitool by c0dyCode,
+DataInteractor,/BLCMM/lib/,False,BLCMM_Data_Interaction_Library.jar,1.0,Libraries/,True,,Data Library,
+Multitool,/BLCMM/multitool/,False,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;CustomPatches/UVHM Level Modifier Patch.txt;CustomPatches/CheckBox UVHM Level Modifier Patch.txt,1.13,MultiTool/,True,,The Hex multitool by c0dycode,
+BLCMM_Data_BL2_Base,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Base.jar,0.1,Data/BL2/BLCMM_Data_BL2_Base/,True,,Baisc object data for BL2,DataInteractor
+TimesXSpawns,/BLCMM/plugins/,False,timesXSpawns.jar,0,Plugins/,False,,Times x spawns generator,
