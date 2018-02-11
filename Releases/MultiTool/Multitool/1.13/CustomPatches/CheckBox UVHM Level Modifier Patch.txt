@@ -1,9 +1,0 @@
-Game=BL2
-ValueName=Checked = UVHM Lvl 1; Unchecked = UVHM Lvl 50
-EnabledValue=1
-DisabledValue=50
-Offset=4
-ValueRange=1
-PatchSignature=43 00 83 FE
-UiElement=1
-DONE!

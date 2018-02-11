@@ -1,4 +1,5 @@
 Game=BL2
+Name=UVHM Level Modifier by Shadowevil
 ValueName=UVHM Level Modifier
 MinValue=1
 MaxValue=50

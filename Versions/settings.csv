@@ -1,7 +1,7 @@
 Object,localPath,updateDefault,fileName,version,serverPath,enablable,Changelog,userFriendlyName,dependencies
 BLCMM,/BLCMM/,True,BLCMM.jar,1.02,,True,,BLC Mod Manager,
 BLCMMB,/BLCMM/,False,BLCMMB.jar,1.1,,False,,BLC Mod Manager Beta,
-DataInteractor,/BLCMM/lib/,False,BLCMM_Data_Interaction_Library.jar,1.0,Libraries/,True,,Data Library,
-Multitool,/BLCMM/multitool/,False,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;CustomPatches/UVHM Level Modifier Patch.txt;CustomPatches/CheckBox UVHM Level Modifier Patch.txt,1.13,MultiTool/,True,,The Hex multitool by c0dycode,
+DataInteractor,/BLCMM/lib/,False,BLCMM_Data_Interaction_Library.jar,1,Libraries/,True,,Data Library,
+Multitool,/BLCMM/multitool/,False,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;readme.txt;CustomPatches/UVHM Level Modifier Patch.txt;CustomPatches/CheckBox UVHM Level Modifier Patch.txt,1.14,MultiTool/,True,,The Hex multitool by c0dycode,
 BLCMM_Data_BL2_Base,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Base.jar,0.1,Data/BL2/,True,,Baisc object data for BL2,DataInteractor
 TimesXSpawns,/BLCMM/plugins/,False,timesXSpawns.jar,0,Plugins/,False,,Times x spawns generator,
