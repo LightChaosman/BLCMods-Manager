@@ -8,5 +8,5 @@ BLCMM_Data_BL2_Base,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Base.jar,0.1,Data/BL2/
 BLCMM_Data_BL2_Behaviors,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Behaviors.jar,1.0,Data/BL2/,True,,Behavior object data for BL2,DataInteractor
 BLCMM_Data_BL2_Populations,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Populations.jar,1.0,Data/BL2/,True,,Population object data for BL2,DataInteractor
 BLCMM_Data_BL2_AI,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_AI.jar,1.0,Data/BL2/,True,,AI object data for BL2,DataInteractor
-TimesXSpawns,/BLCMM/plugins/,False,BLCMM_P_TimesXSpawns.jar,1.0,Plugins/TimesXSpawns/,True,,Times x spawns generator,DataInteractor
+TimesXSpawns,/BLCMM/plugins/,False,BLCMM_P_TimesXSpawns.jar,1.0,Plugins/,True,,Times x spawns generator,DataInteractor
 Garbage,sdagd,asdf,asdf,asdfs,asdfasdf,False,,askjlfds,sdf
