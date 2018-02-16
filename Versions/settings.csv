@@ -12,4 +12,4 @@ BLCMM_Data_BL2_Populations,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_Populations.jar
 BLCMM_Data_BL2_AI,/BLCMM/data/BL2/,False,BLCMM_Data_BL2_AI.jar,1.0,Data/BL2/,True,,AI object data for BL2,DataInteractor
 TimesXSpawns,/BLCMM/plugins/,False,BLCMM_P_TimesXSpawns.jar,1.0,Plugins/,True,,Times x spawns generator,DataInteractor;BLCMM_Utilities
 Garbage1,feadsdef,False,sfsdawe,asgsdfg,sdfdas,False,,adsfg,
-,,,,,,,,,
+Garbage2,feadsdef,False,sfsdawe,asgsdfg,sdfdas,False,,adsfg,
