@@ -11,3 +11,5 @@ BLCMM_Data_BL2_Behaviors,Behavior object data for BL2,False,True,1.0,1,/BLCMM/da
 BLCMM_Data_BL2_Populations,Population object data for BL2,False,True,1.0,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Populations.jar,DataInteractor,
 BLCMM_Data_BL2_AI,AI object data for BL2,False,True,1.0,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_AI.jar,DataInteractor,
 TimesXSpawns,Times x spawns generator,False,True,1.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+Garbage again,Times x spawns generator,False,False,1.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+Even more garbage,Times x spawns generator,False,False,1.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
