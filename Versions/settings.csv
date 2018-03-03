@@ -1,6 +1,6 @@
 Object,userFriendlyName,updateDefault,enablable,version,launcherVersionRequired,localPath,serverPath,fileName,dependencies,Changelog
-BLCMMB,BLC Mod Manager Beta,False,False,1.1,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources,
 BLCMM,BLC Mod Manager,True,True,1.08,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources,
+BLCMMB,BLC Mod Manager Beta,False,False,1.1,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources,
 BLCMM_Launcher,Hidden Launcher updater - always enabled,True,False,1.0,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,
 BLCMM_Utilities,Hidden utilities updater - always enabled,True,False,1.0,1,/BLCMM/lib/,Libraries/,BLCMM_Utilities.jar,,
 BLCMM_Resources,Hidden resources updater - always enabled,True,False,1.0,1,/BLCMM/lib/,Libraries/,BLCMM_Resources.jar,,
