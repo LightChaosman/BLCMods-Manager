@@ -1,7 +1,7 @@
 Object,userFriendlyName,tooltip,updateDefault,enablable,version,launcherVersionRequired,localPath,serverPath,fileName,dependencies,Changelog
-BLCMM,BLC Mod Manager,,True,True,1.0.14,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
+BLCMM,BLC Mod Manager,,True,True,1.0.15,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
 BLCMMB,BLC Mod Manager Beta,,False,False,1.0.0,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
-BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.0.2,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,
+BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.0.3,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,
 BLCMM_Utilities,Hidden utilities updater - always enabled,,True,False,1.0.2,1,/BLCMM/lib/,Libraries/,BLCMM_Utilities.jar,,
 BLCMM_Resources,Hidden resources updater - always enabled,,True,False,1.0.2,1,/BLCMM/lib/,Libraries/,BLCMM_Resources.jar,,
 DataInteractor,Data Library,,True,False,1.0.3,1,/BLCMM/lib/,Libraries/,BLCMM_Data_Interaction_Library.jar,BLCMM,
