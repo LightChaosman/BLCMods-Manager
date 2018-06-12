@@ -1,0 +1,2 @@
+The files found in the folders below here are carbon copies of releases of the Hex Multitool by c0dycode.
+The original repository can be found here: https://github.com/c0dycode/Borderlands-Hex-Multitool
