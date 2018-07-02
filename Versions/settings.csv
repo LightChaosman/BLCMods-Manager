@@ -1,5 +1,5 @@
 Object,userFriendlyName,tooltip,updateDefault,enablable,version,launcherVersionRequired,localPath,serverPath,fileName,dependencies,Changelog
-BLCMM,BLC Mod Manager,,True,True,1.0.30,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
+BLCMM,BLC Mod Manager,,True,True,1.0.31,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
 BLCMMB,BLC Mod Manager Beta,,False,False,1.0.0,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,
 BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.0.8,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,
 BLCMM_Launcher_exe,Hidden Launcher updater - always enabled,,True,False,1.0.8,1,/BLCMM/launcher/,,BLCMM_Launcher.exe,,
@@ -22,7 +22,7 @@ BLCMM_Data_BL2_Skins,Skin object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL
 BLCMM_Data_BL2_StaticMeshes,StaticMeshes object data for BL2,warning: this is a big dataset with very few uses,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_StaticMeshes.jar,DataInteractor,
 BLCMM_Data_BL2_WillowData,WillowData object data for BL2,warning: this is a big dataset with very few uses,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_WillowData.jar,DataInteractor,
 TimesXSpawns,Times x spawns generator,,False,True,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
-rfwja,egrf,egtr,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
-few,wefwf,gtrg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
-rfew,feref,rtgtrg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
-few,fref,rgttg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+asfew,eagfe,aerfe,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+rdsgre,aerg,arfge,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+sgreg,eagfe,aergf,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
+raege,rega,a,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,
