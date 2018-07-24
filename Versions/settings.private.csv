@@ -1,16 +1,16 @@
 Object,userFriendlyName,tooltip,updateDefault,enablable,version,launcherVersionRequired,localPath,serverPath,fileName,dependencies,Changelog,inferFrom
-BLCMM,BLC Mod Manager,,True,True,1.0.38,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,,
+BLCMM,BLC Mod Manager,,True,True,1.1.5,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,,
 BLCMMB,BLC Mod Manager Beta,,False,False,1.0.0,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,,
-BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.0.13,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,,BLCMM
-BLCMM_Launcher_exe,Hidden Launcher updater - always enabled,,True,False,1.0.13,1,/BLCMM/launcher/,,BLCMM_Launcher.exe,,,BLCMM
-BLCMM_Utilities,Hidden utilities updater - always enabled,,True,False,1.0.6,1,/BLCMM/lib/,Libraries/,BLCMM_Utilities.jar,,,BLCMM
-BLCMM_Resources,Hidden resources updater - always enabled,,True,False,1.0.5,1,/BLCMM/lib/,Libraries/,BLCMM_Resources.jar,,,BLCMM
-DataInteractor,Data Library,,True,False,1.0.4,1,/BLCMM/lib/,Libraries/,BLCMM_Data_Interaction_Library.jar,BLCMM,,BLCMM
+BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.1.4,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,,BLCMM
+BLCMM_Launcher_exe,Hidden Launcher updater - always enabled,,True,False,1.1.4,1,/BLCMM/launcher/,,BLCMM_Launcher.exe,,,BLCMM
+BLCMM_Utilities,Hidden utilities updater - always enabled,,True,False,1.0.8,1,/BLCMM/lib/,Libraries/,BLCMM_Utilities.jar,,,BLCMM
+BLCMM_Resources,Hidden resources updater - always enabled,,True,False,1.0.6,1,/BLCMM/lib/,Libraries/,BLCMM_Resources.jar,,,BLCMM
+DataInteractor,Data Library,,True,False,1.0.7,1,/BLCMM/lib/,Libraries/,BLCMM_Data_Interaction_Library.jar,BLCMM,,BLCMM
 Multitool,The Hex Multitool by c0dycode,,False,True,1.18,1,/BLCMM/multitool/,MultiTool/,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;readme.txt;LICENSES.txt;CustomPatches/UVHM Level Modifier.txt;CustomPatches/CustomPatch Readme.txt,,,
 BLCMM_Data_BL2_Indices,Hidden BL2 index,,True,False,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Indices.jar,DataInteractor,,BLCMM
 BLCMM_Data_BL2_Actions,Actions object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Actions.jar,DataInteractor,,
 BLCMM_Data_BL2_AI,AI object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_AI.jar,DataInteractor,,
-BLCMM_Data_BL2_Base,Basic object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Base.jar,DataInteractor,,
+BLCMM_Data_BL2_Base,Basic object data for BL2,,False,True,1.0.2,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Base.jar,DataInteractor,,
 BLCMM_Data_BL2_Behaviors,Behavior object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Behaviors.jar,DataInteractor,,
 BLCMM_Data_BL2_Dialog,Dialog object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Dialog.jar,DataInteractor,,
 BLCMM_Data_BL2_Kismets,Kismet object data for BL2,,False,True,1.0.1,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Kismets.jar,DataInteractor,,
@@ -35,8 +35,8 @@ BLCMM_Data_TPS_Populations,Population object data for TPS,,False,True,1.0.1,1,/B
 BLCMM_Data_TPS_Skins,Skin object data for TPS,,False,True,1.0.1,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Skins.jar,DataInteractor,,
 BLCMM_Data_TPS_StaticMeshes,StaticMeshes object data for TPS,warning: this is a big dataset with very few uses,False,True,1.0.1,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_StaticMeshes.jar,DataInteractor,,
 BLCMM_Data_TPS_WillowData,WillowData object data for TPS,warning: this is a big dataset with very few uses,False,True,1.0.1,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_WillowData.jar,DataInteractor,,
-TimesXSpawns,Times x spawns generator,,False,True,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-fghfgh,hgfg,fg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-fghfgh,hfgh,hf,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-fghfgh,fgh,hgf,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-fghfgh,fgh,gh,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+TimesXSpawns,Times x spawns generator,,False,True,1.1.2,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+er,rf,rtgrgrg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+er,sdfsdf,trg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+rf,er,er,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+erfe,rtg,g,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
