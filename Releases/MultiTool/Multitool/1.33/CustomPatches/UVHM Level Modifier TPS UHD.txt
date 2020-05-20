@@ -1,0 +1,11 @@
+Game=TPS
+Name=UVHM Level Modifier by Shadowevil - Ported by c0dycode for UHD Update
+ValueName=UVHM Level Modifier
+MinValue=1
+MaxValue=50
+Offset=4
+ValueRange=1
+PatchSignature=FF FF 83 FE ?? 7D 07 B8
+UiElement=2
+TooltipText=
+DONE!

@@ -1,0 +1,11 @@
+Game=BL2
+Name=UVHM Level Modifier by Shadowevil - Ported by c0dycode for UHD Update
+ValueName=UVHM Level Modifier UHD
+MinValue=1
+MaxValue=50
+Offset=7
+ValueRange=1
+PatchSignature=E8 E2 FD FF FF 83 FE
+UiElement=2
+TooltipText=
+DONE!

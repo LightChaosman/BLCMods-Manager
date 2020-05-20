@@ -1,0 +1,11 @@
+Game=TPS
+Name=UVHM Level Modifier by Shadowevil
+ValueName=UVHM Level Modifier
+MinValue=1
+MaxValue=50
+Offset=4
+ValueRange=1
+PatchSignature=1B 00 83 FE
+UiElement=2
+TooltipText=
+DONE!
