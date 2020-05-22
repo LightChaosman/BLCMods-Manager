@@ -1,6 +1,6 @@
 Object,serverPath,fileName,tooltip,userFriendlyName,enablable,version,dependencies,updateDefault,launcherVersionRequired,inferFrom,localPath,Changelog,hash
 BLCMM,,BLCMM.jar,,BLC Mod Manager,True,1.2.0,BLCMM_Utilities;BLCMM_Resources;DataInteractor,True,1, ,/BLCMM/, ,33cc0f463b1a273c67b9115aa55c7fe9f67f9e17395b557831fa95c522ed37e1
-BLCMMB,,BLCMMB.jar,,BLC Mod Manager Beta,False,1.0.0,BLCMM_Utilities;BLCMM_Resources;DataInteractor,False,1, ,/BLCMM/, ,3362e7bec68e0a891cf9e16dd077fc7dcccab8a472c3459d4732e14c5d94a962
+BLCMMB,,BLCMMB.jar,,BLC Mod Manager Beta,False,1.2.0,BLCMM_Utilities;BLCMM_Resources;DataInteractor,False,1, ,/BLCMM/, ,33cc0f463b1a273c67b9115aa55c7fe9f67f9e17395b557831fa95c522ed37e1
 BLCMM_Launcher,,BLCMM_Launcher.jar,,Hidden Launcher updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/launcher/,,6be8142f567a76a729c03405c897834bcdaab96f02e7aaba2e8ecbf8ca9ca278
 BLCMM_Launcher_exe,,BLCMM_Launcher.exe,,Hidden Launcher updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/launcher/,,da7ccbb34e8218cd08bf3e3bafa8252c78e96150be6202fb2ad56f77e36e04b0
 BLCMM_Utilities,Libraries/,BLCMM_Utilities.jar,,Hidden utilities updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/lib/,,12596f55efa25c1819b41b3052d2669e7ae604121380e7e3e0a2c645b5abda38

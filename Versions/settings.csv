@@ -1,42 +1,38 @@
-Object,userFriendlyName,tooltip,updateDefault,enablable,version,launcherVersionRequired,localPath,serverPath,fileName,dependencies,Changelog,inferFrom
-BLCMM,BLC Mod Manager,,True,True,1.1.8,1,/BLCMM/,,BLCMM.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,,
-BLCMMB,BLC Mod Manager Beta,,False,False,1.1.9b,1,/BLCMM/,,BLCMMB.jar,BLCMM_Utilities;BLCMM_Resources;DataInteractor,,
-BLCMM_Launcher,Hidden Launcher updater - always enabled,,True,False,1.1.5,1,/BLCMM/launcher/,,BLCMM_Launcher.jar,,,BLCMM
-BLCMM_Launcher_exe,Hidden Launcher updater - always enabled,,True,False,1.1.5,1,/BLCMM/launcher/,,BLCMM_Launcher.exe,,,BLCMM
-BLCMM_Utilities,Hidden utilities updater - always enabled,,True,False,1.0.9,1,/BLCMM/lib/,Libraries/,BLCMM_Utilities.jar,,,BLCMM
-BLCMM_Resources,Hidden resources updater - always enabled,,True,False,1.0.8,1,/BLCMM/lib/,Libraries/,BLCMM_Resources.jar,,,BLCMM
-DataInteractor,Data Library,,True,False,1.0.8,1,/BLCMM/lib/,Libraries/,BLCMM_Data_Interaction_Library.jar,BLCMM,,BLCMM
-Multitool,The Hex Multitool by c0dycode,,False,True,1.18,1,/BLCMM/multitool/,MultiTool/,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;readme.txt;LICENSES.txt;CustomPatches/UVHM Level Modifier.txt;CustomPatches/CustomPatch Readme.txt,,,
-BLCMM_Data_BL2_Indices,Hidden BL2 index,,True,False,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Indices.jar,DataInteractor,,BLCMM
-BLCMM_Data_BL2_Actions,Actions object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Actions.jar,DataInteractor,,
-BLCMM_Data_BL2_AI,AI object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_AI.jar,DataInteractor,,
-BLCMM_Data_BL2_Base,Basic object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Base.jar,DataInteractor,,
-BLCMM_Data_BL2_Behaviors,Behavior object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Behaviors.jar,DataInteractor,,
-BLCMM_Data_BL2_Dialog,Dialog object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Dialog.jar,DataInteractor,,
-BLCMM_Data_BL2_Kismets,Kismet object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Kismets.jar,DataInteractor,,
-BLCMM_Data_BL2_Meshes,Meshes object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Meshes.jar,DataInteractor,,
-BLCMM_Data_BL2_Missions,Mission object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Missions.jar,DataInteractor,,
-BLCMM_Data_BL2_Particles,Particle object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Particles.jar,DataInteractor,,
-BLCMM_Data_BL2_Populations,Population object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Populations.jar,DataInteractor,,
-BLCMM_Data_BL2_Skins,Skin object data for BL2,,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_Skins.jar,DataInteractor,,
-BLCMM_Data_BL2_StaticMeshes,StaticMeshes object data for BL2,warning: this is a big dataset with very few uses,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_StaticMeshes.jar,DataInteractor,,
-BLCMM_Data_BL2_WillowData,WillowData object data for BL2,warning: this is a big dataset with very few uses,False,True,1.0.3,1,/BLCMM/data/BL2/,Data/BL2/,BLCMM_Data_BL2_WillowData.jar,DataInteractor,,
-BLCMM_Data_TPS_Indices,Hidden TPS index,,True,False,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Indices.jar,DataInteractor,,BLCMM
-BLCMM_Data_TPS_Actions,Actions object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Actions.jar,DataInteractor,,
-BLCMM_Data_TPS_AI,AI object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_AI.jar,DataInteractor,,
-BLCMM_Data_TPS_Base,Basic object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Base.jar,DataInteractor,,
-BLCMM_Data_TPS_Behaviors,Behavior object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Behaviors.jar,DataInteractor,,
-BLCMM_Data_TPS_Dialog,Dialog object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Dialog.jar,DataInteractor,,
-BLCMM_Data_TPS_Kismets,Kismet object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Kismets.jar,DataInteractor,,
-BLCMM_Data_TPS_Meshes,Meshes object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Meshes.jar,DataInteractor,,
-BLCMM_Data_TPS_Missions,Mission object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Missions.jar,DataInteractor,,
-BLCMM_Data_TPS_Particles,Particle object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Particles.jar,DataInteractor,,
-BLCMM_Data_TPS_Populations,Population object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Populations.jar,DataInteractor,,
-BLCMM_Data_TPS_Skins,Skin object data for TPS,,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_Skins.jar,DataInteractor,,
-BLCMM_Data_TPS_StaticMeshes,StaticMeshes object data for TPS,warning: this is a big dataset with very few uses,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_StaticMeshes.jar,DataInteractor,,
-BLCMM_Data_TPS_WillowData,WillowData object data for TPS,warning: this is a big dataset with very few uses,False,True,1.0.3,1,/BLCMM/data/TPS/,Data/TPS/,BLCMM_Data_TPS_WillowData.jar,DataInteractor,,
-TimesXSpawns,Times x spawns generator,,False,True,1.2.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-ihrfshg,gdfgdf,hgfjf,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-sdfsfs,fgddg,fhgfhgh,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-sdfsfs,dfgdfg,fhgfhgh,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
-df,dgfdgf,fghhfg,False,False,1.0.0,1,/BLCMM/plugins/,Plugins/,BLCMM_P_TimesXSpawns.jar,DataInteractor;BLCMM_Utilities,,
+Object,serverPath,fileName,tooltip,userFriendlyName,enablable,version,dependencies,updateDefault,launcherVersionRequired,inferFrom,localPath,Changelog,hash
+BLCMM,,BLCMM.jar,,BLC Mod Manager,True,1.2.0,BLCMM_Utilities;BLCMM_Resources;DataInteractor,True,1, ,/BLCMM/, ,33cc0f463b1a273c67b9115aa55c7fe9f67f9e17395b557831fa95c522ed37e1
+BLCMMB,,BLCMMB.jar,,BLC Mod Manager Beta,False,1.2.0,BLCMM_Utilities;BLCMM_Resources;DataInteractor,False,1, ,/BLCMM/, ,33cc0f463b1a273c67b9115aa55c7fe9f67f9e17395b557831fa95c522ed37e1
+BLCMM_Launcher,,BLCMM_Launcher.jar,,Hidden Launcher updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/launcher/,,6be8142f567a76a729c03405c897834bcdaab96f02e7aaba2e8ecbf8ca9ca278
+BLCMM_Launcher_exe,,BLCMM_Launcher.exe,,Hidden Launcher updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/launcher/,,da7ccbb34e8218cd08bf3e3bafa8252c78e96150be6202fb2ad56f77e36e04b0
+BLCMM_Utilities,Libraries/,BLCMM_Utilities.jar,,Hidden utilities updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/lib/,,12596f55efa25c1819b41b3052d2669e7ae604121380e7e3e0a2c645b5abda38
+BLCMM_Resources,Libraries/,BLCMM_Resources.jar,,Hidden resources updater - always enabled,False,1.2.0,,True,1,BLCMM,/BLCMM/lib/,,f40fc4f1c46236f7d914618ca46c8e78858b39601fb444e7f92d7406430b845a
+DataInteractor,Libraries/,BLCMM_Data_Interaction_Library.jar,,Data Library,False,1.2.0,BLCMM,True,1,BLCMM,/BLCMM/lib/,,b2b3eac2c66c5158d595e6fd867c11eb18be5dbf295cce8ec6f053ce71202204
+Multitool,MultiTool/,BorderlandsHexMultitool.exe;BorderlandsHexMultitool.exe.config;readme.txt;LICENSES.txt;CustomPatches/UVHM Level Modifier.txt;CustomPatches/CustomPatch Readme.txt;CustomPatches/UVHM Level Modifier UHD.txt;CustomPatches/UVHM Level Modifier DLC.txt;CustomPatches/UVHM Level Modifier TPS UHD.txt;CustomPatches/UVHM Level Modifier TPS.txt,,The Hex Multitool by c0dycode,True,1.33, ,False,1, ,/BLCMM/multitool/, ,7cd74284c81a476fb4e23a0043ddea36f1dcb5fbd77c64037ab5f2666a9d0db4;e7b9d889550ade01cfc4c2c7a9131d7e265db2eeb12506729d51790ed9167144;f0d834510d6e1988c2dc62fe25dcffd45c3151a1bd90805c7f0ef49d470f2695;b370b8914f41fb70bd406298eb60ec4520c770b275c104e860bd6b7c4d232695;ff26366a300711760d2cc5390ba13a9345ed8f9d6d32bbc9fcd9b19cc28a00d5;5597df9dbc9845b3c31e44f4cc13d21587fa54c46b87104de263c97b49aaec9d;2cdca94f5a3825e69649e5b7bd7195c3e2694390c183aa29d8657d695e16ea12;f330f02ba48f8013012b818661e164b5905cb34b4e54d9ff7952f9f3f69b77ab;d490548d538e13b775a90019ef12bf87e8a5057675d69c9eab35e92910fa8f36;bf53233ccf57ece02ce49ce1a90e88f61380dc2ee238ea6bc2fa2cc6c0cfab0a
+BLCMM_Data_BL2_Indices,Data/BL2/,BLCMM_Data_BL2_Indices.jar,,Hidden BL2 index,False,1.2.0,DataInteractor,True,1,BLCMM,/BLCMM/data/BL2/,,ab4e30074f56d4c59b202e11575956f7584d24f060d30c0a3c5dddbb14a8289b
+BLCMM_Data_BL2_Actions,Data/BL2/,BLCMM_Data_BL2_Actions.jar,,Actions object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,ccd79b2970fc50e39fea6aacb7a555d80d5bfa7da952ae72a89bac0815069d87
+BLCMM_Data_BL2_AI,Data/BL2/,BLCMM_Data_BL2_AI.jar,,AI object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,0d99dfb44996d7d4dda0d2519d2f0db92c87780c2bb48bef4258dc154981c2ab
+BLCMM_Data_BL2_Base,Data/BL2/,BLCMM_Data_BL2_Base.jar,,Basic object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,3dce7ee58c40e553bac37bd57bcaaf05f9ce1f39c72f5abae5bac5542135ae61
+BLCMM_Data_BL2_Behaviors,Data/BL2/,BLCMM_Data_BL2_Behaviors.jar,,Behavior object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,f09a82b116c719e63a1aaf70de09e84c0350493860f87db6574ea1ad70d86046
+BLCMM_Data_BL2_Dialog,Data/BL2/,BLCMM_Data_BL2_Dialog.jar,,Dialog object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,866044713131d9a72342e1743edb264efec980c5601d1a8d7199f6c0bcf4d412
+BLCMM_Data_BL2_Kismets,Data/BL2/,BLCMM_Data_BL2_Kismets.jar,,Kismet object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,55b6a668e584e2d507ce9de483a2081278375ab4ad4863ddbca7089f5721983b
+BLCMM_Data_BL2_Meshes,Data/BL2/,BLCMM_Data_BL2_Meshes.jar,,Meshes object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,d81de50d582818b9e72580922942cfce85e8f65453ee227d9fddde8ec792b58d
+BLCMM_Data_BL2_Missions,Data/BL2/,BLCMM_Data_BL2_Missions.jar,,Mission object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,b312cd5158174e5f972bd639a59fcfaf6f5cc34b8e42e57d12a7a6f0833f56bb
+BLCMM_Data_BL2_Particles,Data/BL2/,BLCMM_Data_BL2_Particles.jar,,Particle object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,5b57346e62a5d0b95d0641db9f2fc47d723969a74700ed23e08d4c4770a559a8
+BLCMM_Data_BL2_Populations,Data/BL2/,BLCMM_Data_BL2_Populations.jar,,Population object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,e48c69f59ff34e2ec30c4bc8477a0ca7afddbeef7e8954c89d6bbd36fc9cdcda
+BLCMM_Data_BL2_Skins,Data/BL2/,BLCMM_Data_BL2_Skins.jar,,Skin object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,ecbdbb54b1dbd959218bf5ee273c865152bf1022a84e4d775a7b26e5f3397663
+BLCMM_Data_BL2_StaticMeshes,Data/BL2/,BLCMM_Data_BL2_StaticMeshes.jar,warning: this is a big dataset with very few uses,StaticMeshes object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,32b267d1fedbe19a8a2bbd6cdafcbff07520944940af85633021c6f390c84c45
+BLCMM_Data_BL2_WillowData,Data/BL2/,BLCMM_Data_BL2_WillowData.jar,warning: this is a big dataset with very few uses,WillowData object data for BL2,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/BL2/, ,dabe8f39fb36a03f40c10863d74bfdf1d4a8f162f84295e1dba9d13c0ed0ab53
+BLCMM_Data_TPS_Indices,Data/TPS/,BLCMM_Data_TPS_Indices.jar,,Hidden TPS index,False,1.2.0,DataInteractor,True,1,BLCMM,/BLCMM/data/TPS/,,a7948787144204e0a087b5becdde71b589206ec3c56636db92b9e12f91d0d693
+BLCMM_Data_TPS_Actions,Data/TPS/,BLCMM_Data_TPS_Actions.jar,,Actions object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,6bb8fc686da5ef82a66c99ba6aea7d8962aed13e4cbb305f0afd5d6b598b2c1a
+BLCMM_Data_TPS_AI,Data/TPS/,BLCMM_Data_TPS_AI.jar,,AI object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,0709f547ec1ec4b24cbe5b41922657e3aa5749ebed8385684e60755213262ad7
+BLCMM_Data_TPS_Base,Data/TPS/,BLCMM_Data_TPS_Base.jar,,Basic object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,0e53d0fb92b54d104dba9a8ce2116e61d66549215ff97fbec4c885a59a907e7a
+BLCMM_Data_TPS_Behaviors,Data/TPS/,BLCMM_Data_TPS_Behaviors.jar,,Behavior object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,66bbc6c3751973bfe0b2a25576637721d623c1efd044af7bd1ac3d53cd86f4d5
+BLCMM_Data_TPS_Dialog,Data/TPS/,BLCMM_Data_TPS_Dialog.jar,,Dialog object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,7a51a19e7c7674901da48b11b62cffadce59a8b06f91e38c3c53429745c26a4a
+BLCMM_Data_TPS_Kismets,Data/TPS/,BLCMM_Data_TPS_Kismets.jar,,Kismet object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,de5c46013987088c5bb7cd96b2f0dd924e5172d510f078fba8ebf2f032e85143
+BLCMM_Data_TPS_Meshes,Data/TPS/,BLCMM_Data_TPS_Meshes.jar,,Meshes object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,60e5e0389b469f245d55d227017ff98cd9bcec69430a4e597ab674ae6ee9ba6b
+BLCMM_Data_TPS_Missions,Data/TPS/,BLCMM_Data_TPS_Missions.jar,,Mission object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,607f362b967a37a98e5f59135590fe6d94a3e060ce68ea068a62f2c871603e21
+BLCMM_Data_TPS_Particles,Data/TPS/,BLCMM_Data_TPS_Particles.jar,,Particle object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,b3f7d69fc2cdbb8bcee8b940cb3750cf0b5283e90f4e440bf18ea4bc1ecd08da
+BLCMM_Data_TPS_Populations,Data/TPS/,BLCMM_Data_TPS_Populations.jar,,Population object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,406dff018ebf14388d24e8a6bb3e30ba4cd4c89b507c5a5a671914cc699edb80
+BLCMM_Data_TPS_Skins,Data/TPS/,BLCMM_Data_TPS_Skins.jar,,Skin object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,606a2b6f61f8e310ddcbe0ec12683b78f13b788f2c0c78eee5c8dbef8789234c
+BLCMM_Data_TPS_StaticMeshes,Data/TPS/,BLCMM_Data_TPS_StaticMeshes.jar,warning: this is a big dataset with very few uses,StaticMeshes object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,e945fbe1d164797fd159be626a583ee67c5673793b9c84c4e446abe64093d563
+BLCMM_Data_TPS_WillowData,Data/TPS/,BLCMM_Data_TPS_WillowData.jar,warning: this is a big dataset with very few uses,WillowData object data for TPS,True,1.2.0,DataInteractor,False,1, ,/BLCMM/data/TPS/, ,a4715b7bbdbf5a84ce43c26c858bd01230e24e38bf9990f9fb53ef4ea96e5777
+TimesXSpawns,Plugins/,BLCMM_P_TimesXSpawns.jar,,Times x spawns generator,True,1.2.1,DataInteractor;BLCMM_Utilities,False,1, ,/BLCMM/plugins/, ,2f777d8eb37186c300bc0bd1ff71326b9179a0772047ff59c18926c9c7abef8c
